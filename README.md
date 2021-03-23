@@ -46,7 +46,7 @@ O projeto têm como objetivo o desenvolvimento dos alunos do curso de Desenvolvi
 
 <a id="ancora1"></a>
 ## - Sobre a plataforma - 
-O site desenvolvido têm como meta proporcionar a melhor experiência ao usuário, para que consiga obter informações consistentes e análises utéis referente aos eleitores da região desejada. Para isso, serão utilizadas técnicas de usuabilidade, diferentes filtros e gráficos. Além disso, optamos por um design minimalista e moderno, para o site ser bem intuitivo independente de quem use. O desenvolvimento será de maneira simples afim de que, futuramene, o cliente também possa realizar modificações de acordo com o seu gosto. 
+O site desenvolvido têm como meta proporcionar a melhor experiência ao usuário, para que consiga obter informações consistentes e análises utéis referente aos eleitores da região desejada. Para isso, serão utilizadas técnicas de usuabilidade, diferentes filtros e gráficos. Além disso, optamos por um design minimalista e moderno, para o site ser bem intuitivo independente de quem use. O desenvolvimento será de maneira simples afim de que, futuramente, o cliente também possa realizar modificações de acordo com o seu gosto. 
 
 <br />
 
@@ -55,7 +55,6 @@ O site desenvolvido têm como meta proporcionar a melhor experiência ao usuári
 
 O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
-<b>Materiais didáticos (texto, vídeo e jogo)</b> :
 
 * 
 
@@ -73,7 +72,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 <h4>Funcionalidades desenvolvidas:</h4>
 
-<b>Home</b>
+<b> Home</b>
 
 - [ ] 
 
@@ -81,7 +80,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 - [ ] 
 
-<b>Página da Cidade Selecionada /b>
+<b> Página da Cidade Selecionada </b>
 
 - [ ] 
 
@@ -89,7 +88,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 - [ ] 
 
-<b>Página das Regiões</b>
+<b> Página das Regiões</b>
 
 - [ ] 
 
@@ -99,7 +98,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 - [ ]  
 
-<b>Página da Região Selecionada</b>
+<b> Página da Região Selecionada</b>
 - [ ] 
 
 - [ ] 
@@ -122,23 +121,63 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 <a id="ancora3"></a>
 ## - Equipe - :busts_in_silhouette:
 
-* Nathan Da Motta Truyts (Scrum Master)()(https://github.com/Nathtruyts)
+* Nathan Da Motta Truyts (Scrum Master) [Linked In]()| [GitHub](https://github.com/Nathtruyts)
 
-* [Gabriele Gonçalves Vieira (Development Team)]()
+* Gabriele Gonçalves Vieira (Development Team) [Linked In]() | [GitHub](https://github.com/GabrieleGVieira)
 
-* [Gustavo Borges Lima (Development Team)]()
+* Gustavo Borges Lima (Development Team) [Linked In]() | [GitHub](https://github.com/Miojoguu)
 
-* [Isabelle Dias Ribeiro Silva (Development Team)]()
+* Isabelle Dias Ribeiro Silva (Development Team) [Linked In](https://www.linkedin.com/in/isabelle-r-53a8b9115/) | [GitHub]()
 
-* [Rafael Hideki Hirayama (Development Team)]()
+* Rafael Hideki Hirayama (Development Team) [Linked In](https://www.linkedin.com/in/rafael-hideki-hirayama-39a67b190/) | [GitHub]()
 
-* [Rayana Caroline Da Silva (Development Team)]()
+* Rayana Caroline Da Silva (Development Team)] [Linked In](https://www.linkedin.com/in/rayana-silva-3a9292195/) | [GitHub](https://github.com/raysilva02)
 
-* Vinicius Buarque De Gusmão Catonho (Development Team)[Linked]()
-
+* Vinicius Buarque De Gusmão Catonho (Development Team) [Linked In]() | [GitHub]()
 
 
 <br />
+
+<a id="ancora4"></a>
+## - Ferramentas utilizadas - :hammer:
+
+* Frontend: 
+
+* Análise de Dados: 
+
+* Design: FIGMA
+
+<br />
+
+<a id="ancora5"></a>
+## - Entregas - :white_check_mark:
+
+- [] Entrega 1 - 08/03/2021 à 28/03/2021 - Para visualizar a entrega, [clique aqui]().
+
+- [] Entrega 2 - 29/03/2021 à 18/04/2021 - 
+- [] Entrega 3 - 26/04/2021 à 16/05/2021 - 
+- [] Entrega 4 - 17/05/2021 à 05/06/2021 - 
+
+<br />
+
+<a id="ancora6"></a>
+## - Backlog do projeto - :bar_chart:
+
+<img  src="">
+
+<a id="ancora7"></a>
+
+<br />
+
+## - Cronograma - :clock1230:
+
+<img  src="">
+
+<a id="ancora8"></a>
+
+<br>
+
+
 
 
 
