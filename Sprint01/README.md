@@ -18,6 +18,8 @@
 
 ## - BACKLOG DA SPRINT- :bookmark_tabs:
 
+![Generic badge](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/Sprint01.png)
+
 
 ## - ENTREGAS- :white_check_mark:
 
