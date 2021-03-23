@@ -26,15 +26,19 @@
 Segundo os requisitos levantados pelo cliente, foi definido os seguintes filtros que serão utilizados para a coleta e extração dos dados: 
 
 * Estado: São Paulo
-* Municípios: São José dos Campos, 
+* Municípios: São José dos Campos, Taubaté, Jacareí, Pinda e Caraguatatuba
 * Nome Social
 * Faixa Etária
 * Estado Civil
 * Escolaridade 
 * Gênero
+* Portadores de Necessidades Especiais
+* Justificativa Eleitoral - Eleições Municipais 2020
+* Eleitores Faltosos - Eleições Municipais 2020
 * Prefeitos Eleitos - Eleições Municipais 2020
 * Vereadores Eleitos - Eleições Municipais 2020
-* 
+* Evolução do Eleitorado
+
 
 - [x] Wireframe
 
