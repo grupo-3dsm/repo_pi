@@ -112,6 +112,18 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 - [ ] Gerar os gráficos
 - [ ] Linkar com a plataforma Web
 - [ ] Automatizar a publicação de gráficos e dados em outras plataformas
+
+<b> Documentação </b>
+
+- [x] Introdução
+- [x] Descrição do site
+- [x] Objetivo
+- [x] Exemplos dos dados utilizados
+- [ ] Informações e descrição da base de dados
+- [ ] Explicação sobre as análises geradas
+- [ ] Explicação sobre as ferramentas de dados utilizadas
+- [ ] Explicação sobre o desenvolvimento Front-end
+- [ ] Guia para realizar modificações
 				
 		
 <br />
