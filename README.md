@@ -72,38 +72,32 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 <h4>Funcionalidades desenvolvidas:</h4>
 
-<b> Home</b>
+<b> Tela Inicial</b>
 
-- [ ] 
+- [ ] Ícones direcionáveis das cinco cidades
+- [ ] Hover para descatar e apresentar o nome da cidade no ícone
 
-- [ ] 
+- [ ] Data representada no canto superior direito
 
-- [ ] 
+- [ ] Menu arrastar no canto superior esquerdo
+
 
 <b> Página da Cidade Selecionada </b>
 
-- [ ] 
-
-- [ ] 
-
-- [ ] 
+- [ ] Ícones direcionáveis para as seções de prefeito, vereador e região
 
 <b> Página das Regiões</b>
 
-- [ ] 
+- [ ] Menu arrastar no canto superior esquerdo
 
-- [ ]  
+- [ ]  Exibição das informações gerais
+- [ ]  Hover para descatar uma região específica
 
-- [ ]  
-
-- [ ]  
 
 <b> Página da Região Selecionada</b>
-- [ ] 
+- [ ] Exibição das informações específicas referentes a região selecionada
 
-- [ ] 
-- [ ] 
-- [ ] 
+
 
 <b> Análise de Dados</b>
 
