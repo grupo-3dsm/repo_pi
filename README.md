@@ -107,13 +107,17 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 <b> Análise de Dados</b>
 
- - [ ] 
+ - [x] Definir os filtros
 
-- [ ] 
+- [ ] Coletar os dados
 
-- [ ] 
+- [ ] Tratar os dados
 
-- [ ] 
+- [ ] Gerar os filtros
+
+- [ ] Gerar os gráficos
+- [ ] Linkar com a plataforma Web
+- [ ]  
 				
 		
 <br />
@@ -154,9 +158,10 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 - [x] Entrega 1 - 08/03/2021 à 28/03/2021 - Para visualizar a entrega, [clique aqui](https://github.com/grupo-3dsm/repo_pi/tree/master/Sprint01).
 
-- [] Entrega 2 - 29/03/2021 à 18/04/2021 - 
-- [] Entrega 3 - 26/04/2021 à 16/05/2021 - 
-- [] Entrega 4 - 17/05/2021 à 05/06/2021 - 
+- [ ] Entrega 2 - 29/03/2021 à 18/04/2021 - 
+
+- [ ] Entrega 3 - 26/04/2021 à 16/05/2021 - 
+- [ ] Entrega 4 - 17/05/2021 à 05/06/2021 - 
 
 <br />
 
