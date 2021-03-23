@@ -84,7 +84,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 <b> Página da Cidade Selecionada </b>
 
-- [ ] Ícones direcionáveis para as seções de prefeito, vereador e região
+- [ ] Ícones direcionáveis para as seções de eleitores por prefeito, vereador e região
 
 <b> Página das Regiões</b>
 
