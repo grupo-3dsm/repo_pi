@@ -82,11 +82,11 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 - [ ] Menu arrastar no canto superior esquerdo
 
 
-<b> Página da Cidade Selecionada </b>
+<b> Tela da Cidade Selecionada </b>
 
 - [ ] Ícones direcionáveis para as seções de eleitores por prefeito, vereador e região
 
-<b> Página das Regiões</b>
+<b> Tela das Regiões</b>
 
 - [ ] Menu arrastar no canto superior esquerdo
 
@@ -94,7 +94,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 - [ ]  Hover para destacar uma região específica
 
 
-<b> Página da Região Selecionada</b>
+<b> Tela da Região Selecionada</b>
 - [ ] Exibição das informações específicas referentes a região selecionada
 
 
