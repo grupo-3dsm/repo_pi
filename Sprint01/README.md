@@ -49,4 +49,6 @@ Para acessar as tela em arquivo PDF, basta acessar [aqui](https://github.com/gru
 
 Para acessar o protótipo navegável em formato FIGMA, basta acessar [aqui](https://github.com/grupo-3dsm/repo_pi/blob/master/Sprint01/wireframe/Vanguarda.fig).
 
+## - DEMONSTRAÇÃO DO WIREFRAME- :white_check_mark:
+
 
