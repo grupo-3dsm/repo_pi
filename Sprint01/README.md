@@ -50,7 +50,7 @@ Segundo os requisitos levantados pelo cliente, foi definido os seguintes filtros
  
  * Objetivo
  
- * Exemplos dos dados utilizados
+ * Exemplos dos dados a ser utilizados
 
 
 - [x] Wireframe
