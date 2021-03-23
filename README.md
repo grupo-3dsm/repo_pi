@@ -8,8 +8,8 @@
  
  <br>
  
-<h1 text align="center">Grupo 3 :chart_with_upwards_trend::computer:</h1> 
-<h2 text align="center">Site para Análise Estatística!</h2>
+<h1 text align="center">Grupo 3 :bar_chart::computer:</h1> 
+<h2 text align="center">Site para Análise Estatística</h2>
 
 <br>
 
@@ -161,7 +161,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 <br />
 
 <a id="ancora6"></a>
-## - Backlog do projeto - :bar_chart:
+## - Backlog do projeto - :bookmark_tabs:
 
 <img  src="">
 
