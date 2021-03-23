@@ -55,7 +55,7 @@ Segundo os requisitos levantados pelo cliente, foi definido os seguintes filtros
 
 - [x] Wireframe
 
-Para acessar as tela em arquivo PDF, basta acessar [aqui](https://github.com/grupo-3dsm/repo_pi/blob/master/Sprint01/wireframe/Vanguarda_Comentado.pdf).
+Para acessar as telas em arquivo PDF, basta acessar [aqui](https://github.com/grupo-3dsm/repo_pi/blob/master/Sprint01/wireframe/Vanguarda_Comentado.pdf).
 
 Para acessar o protótipo navegável em formato FIGMA, basta acessar [aqui](https://github.com/grupo-3dsm/repo_pi/blob/master/Sprint01/wireframe/Vanguarda.fig).
 
