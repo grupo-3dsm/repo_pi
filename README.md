@@ -121,9 +121,9 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 <a id="ancora3"></a>
 ## - Equipe - :busts_in_silhouette:
 
-* Nathan Da Motta Truyts (Scrum Master) [Linked In]()| [GitHub](https://github.com/Nathtruyts)
+* Nathan Da Motta Truyts (Scrum Master) [Linked In]() | [GitHub](https://github.com/Nathtruyts)
 
-* Gabriele Gonçalves Vieira (Development Team) [Linked In]() | [GitHub](https://github.com/GabrieleGVieira)
+* Gabriele Gonçalves Vieira (Development Team) [Linked In](https://www.linkedin.com/in/gabrielevieira/) | [GitHub](https://github.com/GabrieleGVieira)
 
 * Gustavo Borges Lima (Development Team) [Linked In]() | [GitHub](https://github.com/Miojoguu)
 
