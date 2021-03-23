@@ -42,6 +42,12 @@ Segundo os requisitos levantados pelo cliente, foi definido os seguintes filtros
 * Vereadores Eleitos - Eleições Municipais 2020
 * Evolução do Eleitorado
 
+- [x] Introdução da documentação
+        * Introdução
+        * Descrição do site
+        * Objetivo
+        * Exemplos dos dados utilizados
+
 
 - [x] Wireframe
 
