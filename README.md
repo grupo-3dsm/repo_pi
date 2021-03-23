@@ -152,7 +152,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 <a id="ancora5"></a>
 ## - Entregas - :white_check_mark:
 
-- [] Entrega 1 - 08/03/2021 à 28/03/2021 - Para visualizar a entrega, [clique aqui](https://github.com/grupo-3dsm/repo_pi/tree/master/Splint01).
+- [] Entrega 1 - 08/03/2021 à 28/03/2021 - Para visualizar a entrega, [clique aqui](https://github.com/grupo-3dsm/repo_pi/tree/master/Sprint01).
 
 - [] Entrega 2 - 29/03/2021 à 18/04/2021 - 
 - [] Entrega 3 - 26/04/2021 à 16/05/2021 - 
