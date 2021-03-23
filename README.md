@@ -3,7 +3,7 @@
 <h2 text align="center">Fatec Prof Jessen Vidal - São José dos Campos - 1º Semestre ADS</h2>
 
 <p align="center">
-  <img  src="CODIGO/assets/img/fatec-logo.png" width="140px" height="70px">
+  <img  src="https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/fatec-logo.png" width="140px" height="70px">
  </p>
  
  <br>
