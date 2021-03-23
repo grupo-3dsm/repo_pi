@@ -25,13 +25,15 @@
 
 Segundo os requisitos levantados pelo cliente, foi definido os seguintes filtros que serão utilizados para a coleta e extração dos dados: 
 
+* Estado: São Paulo
 * Municípios: São José dos Campos, 
 * Nome Social
 * Faixa Etária
 * Estado Civil
-* Escolaridade Gênero
-* Candidatos Eleitos
-* 
+* Escolaridade 
+* Gênero
+* Prefeitos Eleitos - Eleições Municipais 2020
+* Vereadores Eleitos - Eleições Municipais 2020
 * 
 
 - [x] Wireframe
