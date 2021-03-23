@@ -33,6 +33,7 @@ Segundo os requisitos levantados pelo cliente, foi definido os seguintes filtros
 * Escolaridade 
 * Gênero
 * Portadores de Necessidades Especiais
+* Zona Eleitoral
 * Justificativa Eleitoral - Eleições Municipais 2020
 * Eleitores Faltosos - Eleições Municipais 2020
 * Prefeitos Eleitos - Eleições Municipais 2020
