@@ -75,7 +75,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 <b> Tela Inicial</b>
 
 - [ ] Ícones direcionáveis das cinco cidades
-- [ ] Hover para descatar e apresentar o nome da cidade no ícone
+- [ ] Hover para destacar e apresentar o nome da cidade no ícone
 
 - [ ] Data representada no canto superior direito
 
@@ -91,7 +91,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 - [ ] Menu arrastar no canto superior esquerdo
 
 - [ ]  Exibição das informações gerais
-- [ ]  Hover para descatar uma região específica
+- [ ]  Hover para destacar uma região específica
 
 
 <b> Página da Região Selecionada</b>
