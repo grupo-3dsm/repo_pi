@@ -117,7 +117,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 - [ ] Gerar os gráficos
 - [ ] Linkar com a plataforma Web
-- [ ]  
+- [ ] Automatizar a publicação de gráficos e dados em outras plataformas
 				
 		
 <br />
