@@ -20,3 +20,23 @@
 
 
 ## - ENTREGAS- :white_check_mark:
+
+- [x] Definir os filtros
+
+Segundo os requisitos levantados pelo cliente, foi definido os seguintes filtros que serão utilizados para a coleta e extração dos dados: 
+
+* Municípios: São José dos Campos, 
+* Nome Social
+* Faixa Etária
+* Estado Civil
+* Escolaridade Gênero
+* Candidatos Eleitos
+* 
+* 
+
+- [x] Wireframe
+
+Para acessar as tela em arquivo PDF, basta acessar [aqui]().
+Para acessar o protótipo navegável em formato FIGMA, basta acessar [aqui]().
+
+
