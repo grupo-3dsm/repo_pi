@@ -57,7 +57,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 
 * Dados do perfil do eleitorado atual 
-* Dados do perfil do eleitorado na última eleições
+* Dados do perfil do eleitorado na última eleição
 * Dados por regiões
 
 * Visualizar esses dados através de diferentes tipos de gráficos
