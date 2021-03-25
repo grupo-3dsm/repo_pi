@@ -18,7 +18,7 @@
 
 ## - BACKLOG DA SPRINT- :bookmark_tabs:
 
-![Generic badge](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/Sprint01.png)
+![backlog](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/Sprint01.png)
 
 
 ## - ENTREGAS- :white_check_mark:
@@ -72,7 +72,7 @@ Introdução da documentação :heavy_check_mark:
  - [x] Objetivo
  - [x] Exemplos dos dados a ser utilizados
 
-Para acessar o arquivo da documentação desenvolvida até o momento, basta acessar [aqui](https://github.com/grupo-3dsm/repo_pi/blob/master/documenta%C3%A7%C3%A3o/Documentacao%20introdutoria.pdf)
+:point_right: Para acessar o arquivo da documentação desenvolvida até o momento, basta acessar [aqui](https://github.com/grupo-3dsm/repo_pi/blob/master/documenta%C3%A7%C3%A3o/Documentacao%20introdutoria.pdf)
 
  Wireframe :heavy_check_mark: 
 
@@ -83,12 +83,15 @@ Para acessar o arquivo da documentação desenvolvida até o momento, basta aces
 - [x] Fazer protótipo navegável no FIGMA			
 - [x] Realizar validação com o cliente			
 
-Para acessar as telas em arquivo PDF, basta acessar [aqui](https://github.com/grupo-3dsm/repo_pi/blob/master/Sprint01/wireframe/Vanguarda_Comentado.pdf).
+:point_right: Para acessar as telas em arquivo PDF, basta acessar [aqui](https://github.com/grupo-3dsm/repo_pi/blob/master/Sprint01/wireframe/Vanguarda_Comentado.pdf).
 
-Para acessar o protótipo navegável em formato FIGMA, basta acessar [aqui](https://github.com/grupo-3dsm/repo_pi/blob/master/Sprint01/wireframe/Vanguarda.fig).
+:point_right: Para acessar o protótipo navegável em formato FIGMA, basta acessar [aqui](https://github.com/grupo-3dsm/repo_pi/blob/master/Sprint01/wireframe/Vanguarda.fig).
 
 ## - DEMONSTRAÇÃO DO WIREFRAME- :movie_camera:
 
-Para assistir o video completo com a demonstração do wireframe, acesse [aqui](https://www.youtube.com/watch?v=VYAdvso08_M)
+![gif](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/Gif_Wireframe.gif)
+
+
+:point_right: Para assistir o video completo com a demonstração do wireframe, acesse [aqui](https://www.youtube.com/watch?v=VYAdvso08_M).
 
 
