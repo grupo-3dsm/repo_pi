@@ -168,7 +168,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 <a id="ancora6"></a>
 ## - Backlog do projeto - :bookmark_tabs:
 
-<img  src="https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/Backlog.png">
+<img  src="https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/backlog-1.png">
 
 <a id="ancora7"></a>
 
@@ -176,7 +176,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 ## - Cronograma - :clock1230:
 
-<img  src="https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/Cronograma-sprints.png">
+<img  src="https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/Cronograma.png">
 
 
 
