@@ -56,29 +56,25 @@ O site desenvolvido têm como meta proporcionar a melhor experiência ao usuári
 O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 
-* 
+* Dados do perfil do eleitorado atual 
+* Dados do perfil do eleitorado na última eleições
+* Dados por regiões
 
-* 
+* Visualizar esses dados através de diferentes tipos de gráficos
 
-* 
-
-* 
-
-*
-
-* 
-
+* Estrutura e código de fácil entendimento para realizar modificações
+* Documentação para guiar navegação e futuras modificações
+* Possibilidade de exportação das informações para outras plataformas
 <br>
 
 <h4>Funcionalidades desenvolvidas:</h4>
+
 
 <b> Tela Inicial</b>
 
 - [ ] Ícones direcionáveis das cinco cidades
 - [ ] Hover para destacar e apresentar o nome da cidade no ícone
-
 - [ ] Data representada no canto superior direito
-
 - [ ] Menu arrastar no canto superior esquerdo
 
 
@@ -97,21 +93,16 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 <b> Tela da Região Selecionada</b>
 - [ ] Exibição das informações específicas referentes a região selecionada
 
-
-
 <b> Análise de Dados</b>
 
- - [x] Definir os filtros
-
-- [ ] Coletar os dados
-
-- [ ] Tratar os dados
-
-- [ ] Gerar os filtros
-
-- [ ] Gerar os gráficos
-- [ ] Linkar com a plataforma Web
-- [ ] Automatizar a publicação de gráficos e dados em outras plataformas
+- [x] Definir os filtros
+- [ ] Buscar as bases de dados necessárias
+- [ ] Fazer o tratamento dos dados
+- [ ] Gerar análise estatística dos dados de acordo com as eleições municipais 2020
+- [ ] Gerar análise estatística dos dados de acordo com perfil do eleitorado
+- [ ] Gerar os gráficos para visualização
+- [ ] Visualização na plataforma web
+- [ ] Exportação das informações
 
 <b> Documentação </b>
 
@@ -119,10 +110,14 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 - [x] Descrição do site
 - [x] Objetivo
 - [x] Exemplos dos dados utilizados
-- [ ] Informações e descrição da base de dados
+- [ ] Local fonte das bases de dados
+- [ ] Explicação sobre as bases de dados
+- [ ] Legenda referente as colunas das bases de dados
 - [ ] Explicação sobre as análises geradas
+- [ ] Explicação de como gerar os gráficos
 - [ ] Explicação sobre as ferramentas de dados utilizadas
-- [ ] Explicação sobre o desenvolvimento Front-end
+- [ ] Explicação sobre o desenvolvimento web
+- [ ] Explicação sobre as ferramentas utilizadas para o front-end
 - [ ] Guia para realizar modificações
 				
 		
