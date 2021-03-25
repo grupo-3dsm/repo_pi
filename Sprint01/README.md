@@ -14,14 +14,14 @@
 
 ## - BURN DOWN DA SPRINT- :chart_with_upwards_trend:
 
+![burndown](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/Burndown_sprint1.png)
 
-
-## - BACKLOG DA SPRINT- :bookmark_tabs:
+## - ENTREGAS - :white_check_mark:
 
 ![backlog](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/Sprint01.png)
 
 
-## - ENTREGAS- :white_check_mark:
+## - BACKLOG DA SPRINT- :bookmark_tabs:
 
 Definir os filtros :heavy_check_mark: 
 
@@ -81,7 +81,8 @@ Introdução da documentação :heavy_check_mark:
 - [x] Definir quantidade de telas			
 - [x] Definir organização das telas			
 - [x] Fazer protótipo navegável no FIGMA			
-- [x] Realizar validação com o cliente			
+- [x] Realizar validação com o cliente	
+- [x] Fazer video demonstrativo do protótipo navegável 		
 
 :point_right: Para acessar as telas em arquivo PDF, basta acessar [aqui](https://github.com/grupo-3dsm/repo_pi/blob/master/Sprint01/wireframe/Vanguarda_Comentado.pdf).
 
