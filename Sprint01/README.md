@@ -23,7 +23,11 @@
 
 ## - ENTREGAS- :white_check_mark:
 
-- [x] Definir os filtros
+- :heavy_check_mark: Definir os filtros
+
+- [x] Levantamento dos requisitos
+- [x] Fazer User Stories
+- [x] Realizar validação com o cliente
 
 Segundo os requisitos levantados pelo cliente, foi definido os seguintes filtros que serão utilizados para a coleta e extração dos dados: 
 
