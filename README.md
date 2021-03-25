@@ -85,7 +85,6 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 <b> Tela das Regiões</b>
 
 - [ ] Menu arrastar no canto superior esquerdo
-
 - [ ]  Exibição das informações gerais
 - [ ]  Hover para destacar uma região específica
 
