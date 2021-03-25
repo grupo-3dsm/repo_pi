@@ -27,6 +27,23 @@ Definir os filtros :heavy_check_mark:
 
 - [x] Levantamento dos requisitos
 - [x] Fazer User Stories
+  
+  - Exemplo de algumas User Stories desenvolvidas:
+  > 1- "Como um jornalista quero poder navegar entre as regiões do vale do paraíba por que eu quero fazer uma análise geral por região."
+  > 
+  > 2- "Como jornalista eu quero visualizar a média de homens e mulheres que votaram em cada região para que eu possa utilizar esses dados em minha matéria."
+  > 
+  > 3- "Como jornalista eu quero visualizar a média de pessoas PNE (portador de necessidades especiais) que participam das eleições de cada região para que eu possa utilizar esses dados em minha matéria."
+  > 
+  > 4- "Como jornalista eu desejo visualizar gráficos de diferentes tipos como gráficos de barra, de pizza, de rosca, para visualização de dados."
+  > 
+  > 5- "Como jornalista desejo saber a porcentagem de eleitores justificados na última eleição."
+  > 
+  > 6- "Como jornalista desejo saber a porcentagem de eleitores faltosos na última eleição."
+  > 
+  > 7- "Como jornalista gostaria de saber a evolução do número de eleitores."
+  
+  
 - [x] Realizar validação com o cliente
 
 Segundo os requisitos levantados pelo cliente, foi definido os seguintes filtros que serão utilizados para a coleta e extração dos dados: 
