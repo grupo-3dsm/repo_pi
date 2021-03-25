@@ -23,7 +23,7 @@
 
 ## - BACKLOG DA SPRINT- :bookmark_tabs:
 
-Definir os filtros :heavy_check_mark: 
+#### Definir os filtros :heavy_check_mark: 
 
 - [x] Levantamento dos requisitos
 - [x] Fazer User Stories
@@ -57,7 +57,7 @@ Segundo os requisitos levantados pelo cliente, foi definido os seguintes filtros
 * Estado Civil
 * Escolaridade 
 * Gênero
-* Portadores de Necessidades Especiais
+* Portadores de Necessidades Especiais#
 * Zona Eleitoral
 * Justificativa Eleitoral - Eleições Municipais 2020
 * Eleitores Faltosos - Eleições Municipais 2020
@@ -65,7 +65,7 @@ Segundo os requisitos levantados pelo cliente, foi definido os seguintes filtros
 * Vereadores Eleitos - Eleições Municipais 2020
 * Evolução do Eleitorado
 
-Introdução da documentação :heavy_check_mark: 
+#### Introdução da documentação :heavy_check_mark: 
  
  - [x] Introdução
  - [x] Descrição do site
@@ -74,7 +74,7 @@ Introdução da documentação :heavy_check_mark:
 
 :point_right: Para acessar o arquivo da documentação desenvolvida até o momento, basta acessar [aqui](https://github.com/grupo-3dsm/repo_pi/blob/master/documenta%C3%A7%C3%A3o/Documentacao%20introdutoria.pdf)
 
- Wireframe :heavy_check_mark: 
+ #### Wireframe :heavy_check_mark: 
 
 - [x] Definir as informações que precisam ser apresentadas em telas
 - [x] Definir os tipos de telas			
