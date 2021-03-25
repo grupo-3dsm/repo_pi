@@ -29,6 +29,7 @@ Definir os filtros :heavy_check_mark:
 - [x] Fazer User Stories
   
   - Exemplo de algumas User Stories desenvolvidas:
+  
   > 1- "Como um jornalista quero poder navegar entre as regiões do vale do paraíba por que eu quero fazer uma análise geral por região."
   > 
   > 2- "Como jornalista eu quero visualizar a média de homens e mulheres que votaram em cada região para que eu possa utilizar esses dados em minha matéria."
@@ -42,6 +43,7 @@ Definir os filtros :heavy_check_mark:
   > 6- "Como jornalista desejo saber a porcentagem de eleitores faltosos na última eleição."
   > 
   > 7- "Como jornalista gostaria de saber a evolução do número de eleitores."
+  
   
   
 - [x] Realizar validação com o cliente
