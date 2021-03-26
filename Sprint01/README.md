@@ -74,7 +74,7 @@ Segundo os requisitos levantados pelo cliente, foi definido os seguintes filtros
  - [x] Objetivo
  - [x] Exemplos dos dados a ser utilizados
 
-:point_right: Para acessar o arquivo da documentação desenvolvida até o momento, basta acessar [aqui]. (https://github.com/grupo-3dsm/repo_pi/blob/master/documenta%C3%A7%C3%A3o/Documentacao%20introdutoria.pdf) | _(Caso demore e/ou não carregue o documento, atualize a página)_
+:point_right: Para acessar o arquivo da documentação desenvolvida até o momento, basta acessar [aqui](https://github.com/grupo-3dsm/repo_pi/blob/master/documenta%C3%A7%C3%A3o/Documentacao%20introdutoria.pdf). | _(Caso demore e/ou não carregue o documento, atualize a página)_
 
  #### Wireframe :heavy_check_mark: 
 
