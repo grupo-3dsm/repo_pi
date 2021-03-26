@@ -16,11 +16,11 @@
 
 ![burndown](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/Burndown_sprint1.png)
 
+![burndown_tabela](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/Burndown%20-%20Tabela.png)
+
 ## - ENTREGAS - :white_check_mark:
 
 ![backlog](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/Sprint01.png)
-
-![backlog](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/Burndown%20-%20Tabela.png)
 
 
 ## - BACKLOG DA SPRINT- :bookmark_tabs:
