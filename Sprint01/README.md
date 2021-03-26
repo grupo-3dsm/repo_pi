@@ -82,6 +82,7 @@ Segundo os requisitos levantados pelo cliente, foi definido os seguintes filtros
 - [x] Definir organização das telas			
 - [x] Fazer protótipo navegável no FIGMA			
 - [x] Realizar validação com o cliente	
+- [x] Documentar o Wireframe em PDF
 - [x] Fazer video demonstrativo do protótipo navegável 		
 
 :point_right: Para acessar as telas em arquivo PDF, basta acessar [aqui](https://github.com/grupo-3dsm/repo_pi/blob/master/Sprint01/wireframe/Vanguarda_Comentado.pdf).
