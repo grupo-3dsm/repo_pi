@@ -9,18 +9,18 @@
  <br>
  
 <h1 text align="center">Grupo 3 :bar_chart::computer:</h1> 
-<h2 text align="center">Site para Análise Estatística</h2>
+<h2 text align="center">Plataforma para Análise Estatística</h2>
 
 <br>
 
 ## - Objetivo do projeto -  
-Desenvolver um site no qual os jornalistas da rede de televisão Vanguarda possam acessar informações e dados de eleitores de diferentes regiões da área de abrangência no qual a rede trabalha.
+Desenvolver uma plataforma no qual os jornalistas da rede de televisão Vanguarda possam acessar informações e dados de eleitores de diferentes regiões da área de abrangência no qual a rede trabalha.
 
 <br>
 
 
 ## - Descrição do projeto - 
-O projeto têm como objetivo o desenvolvimento dos alunos do curso de Desenvolvimento de Software Multiplataforma da Fatec de São José dos Campos - Prof Jessen Vidal, na criação de um site para análise estatística. O trabalho visa a interação dos alunos com o cliente, que é a Rede Vanguarda, no qual os mesmos possuem acesso as regras do projeto que são definidas pelo cliente, para assim atender suas demandas e necessidades.
+O projeto têm como objetivo o desenvolvimento dos alunos do curso de Desenvolvimento de Software Multiplataforma da Fatec de São José dos Campos - Prof Jessen Vidal, na criação de uma plataforma para análise estatística. O trabalho visa a interação dos alunos com o cliente, que é a Rede Vanguarda, no qual os mesmos possuem acesso as regras do projeto que são definidas pelo cliente, para assim atender suas demandas e necessidades.
 <br />
 <br />
 
@@ -137,7 +137,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 * Rayana Caroline Da Silva (Development Team)] [Linked In](https://www.linkedin.com/in/rayana-silva-3a9292195/) | [GitHub](https://github.com/raysilva02)
 
-* Vinicius Buarque De Gusmão Catonho (Development Team) [Linked In]() | [GitHub]()
+* Vinicius Buarque De Gusmão Catonho (Development Team) [Linked In](https://www.linkedin.com/in/vinicius-buarque-de-gusm%C3%A3o-catonho-9b11911a7/) | [GitHub](https://github.com/Viniciusbuarque)
 
 
 <br />
