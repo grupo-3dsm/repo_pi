@@ -1,6 +1,6 @@
 [![Generic badge](https://img.shields.io/badge/STATUS%20DO%20PROJETO-EM%20DESENVOLVIMENTO-yellow)](https://shields.io/)
 
-<h2 text align="center">Fatec Prof Jessen Vidal - São José dos Campos - 1º Semestre ADS</h2>
+<h2 text align="center">Fatec Prof Jessen Vidal - São José dos Campos - 1º Semestre DSM</h2>
 
 <p align="center">
   <img  src="https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/fatec-logo.png" width="140px" height="70px">
