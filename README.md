@@ -65,6 +65,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 * Estrutura e código de fácil entendimento para realizar modificações
 * Documentação para guiar navegação e futuras modificações
 * Possibilidade de exportação das informações para outras plataformas
+* Utilizar Jupyter Notebook 
 <br>
 
 <h4>Funcionalidades desenvolvidas:</h4>
@@ -102,6 +103,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 - [ ] Gerar os gráficos para visualização
 - [ ] Visualização na plataforma web
 - [ ] Exportação das informações
+
 
 <b> Documentação </b>
 
@@ -147,7 +149,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 * Front-end: HTML5, CSS3, Javascript
 
-* Análise de Dados: Python, Pandas
+* Análise de Dados: Python, Pandas, Jupyter Notebook
 
 * Design: FIGMA
 
