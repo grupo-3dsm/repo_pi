@@ -65,7 +65,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 * Estrutura e código de fácil entendimento para realizar modificações
 * Documentação para guiar navegação e futuras modificações
 * Possibilidade de exportação das informações para outras plataformas
-* Utilizar Jupyter Notebook 
+* Utilizar Jupyter Notebook para as entregas dos dados
 <br>
 
 <h4>Funcionalidades desenvolvidas:</h4>
