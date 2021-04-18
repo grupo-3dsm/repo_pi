@@ -161,7 +161,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 <a id="ancora6"></a>
 ## - Backlog do projeto - :bookmark_tabs:
 
-<img  src="https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/backlog-1.png">
+<img  src="https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/backlog%20-%20s2.png">
 
 <a id="ancora7"></a>
 
@@ -169,7 +169,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 ## - Cronograma - :clock1230:
 
-<img  src="https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/Cronograma.png">
+<img  src="https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/cronograma%20-%20s2.png">
 
 
 <a id="ancoraSprint1"></a>
@@ -280,9 +280,9 @@ Segundo os requisitos levantados pelo cliente, foi definido os seguintes filtros
 
 ### - BURN DOWN DA SPRINT- :chart_with_upwards_trend:
 
-![burndown]()
+![burndown](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/Burndonw_sprint2.png)
 
-![burndown_tabela]()
+![burndown_tabela](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/burndown_sprint2_tabela.png)
 
 ### - ENTREGAS - :white_check_mark:
 
