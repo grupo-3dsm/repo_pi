@@ -299,9 +299,10 @@ Segundo os requisitos levantados pelo cliente, foi definido os seguintes filtros
 - [x] Cabeçalho da página com data, logo do cliente e ícone do menu
 - [x] Menu arrastar no canto superior esquerdo com nome das cidades
 
-![telainicial]()
+![telainicial](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/telainicial.png)
+![telainicial](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/telainicial_hover.png)
 
-:point_right: Para acessar todo o código dessa página desenvolvido até o momento, clique [aqui](). | _(Caso demore e/ou não carregue o documento, atualize a página)_
+:point_right: Para acessar todo o código dessa página desenvolvido até o momento, clique [aqui](https://github.com/grupo-3dsm/repo_pi/tree/master/codigo/Front-end). | _(Caso demore e/ou não carregue o documento, atualize a página)_
 
 
 #### Tela da cidade selecionada:heavy_check_mark: 
@@ -311,9 +312,9 @@ Segundo os requisitos levantados pelo cliente, foi definido os seguintes filtros
 - [x] Hover para destacar e apresentar a região selecionada
 
 
-![telacidade]()
+![telacidade](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/telacidade.png)
 
-:point_right: Para acessar todo o código dessa página desenvolvido até o momento, clique [aqui](). | _(Caso demore e/ou não carregue o documento, atualize a página)_
+:point_right: Para acessar todo o código dessa página desenvolvido até o momento, clique [aqui](https://github.com/grupo-3dsm/repo_pi/tree/master/codigo/Front-end). | _(Caso demore e/ou não carregue o documento, atualize a página)_
  
 #### Dados do perfil do eleitorado atual :heavy_check_mark: 
 
@@ -400,14 +401,14 @@ As bases de dados utilizadas nessa sprint podem ser encontradas no seguinte site
 
 - [x] Realizar validação com o cliente
 
-:point_right: Para acessar todo o código desenvolvido até o momento, clique [aqui](). | _(Caso demore e/ou não carregue o documento, atualize a página)_
+:point_right: Para acessar todo o código desenvolvido até o momento, clique [aqui](https://github.com/grupo-3dsm/repo_pi/tree/master/codigo/Jupyter-Notebook). | _(Caso demore e/ou não carregue o documento, atualize a página)_
 
 
 ### - DEMONSTRAÇÃO DAS TELAS DESENVOLVIDAS:movie_camera:
 
-![gif]()
+![gif](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/gif_telas.gif)
 
-:point_right: Para assistir o video completo com a demonstração das telas, acesse [aqui]().
+
 
 
 
