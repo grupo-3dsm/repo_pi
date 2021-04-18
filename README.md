@@ -73,33 +73,26 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 <b> Tela Inicial</b>
 
-- [ ] Ícones direcionáveis das cinco cidades
-- [ ] Hover para destacar e apresentar o nome da cidade no ícone
-- [ ] Data representada no canto superior direito
-- [ ] Menu arrastar no canto superior esquerdo
+- [x] Ícones direcionáveis das cinco cidades
+- [x] Hover para destacar e apresentar o nome da cidade no ícone
+- [x] Cabeçalho da página com data, logo do cliente e ícone do menu
+- [x] Menu arrastar no canto superior esquerdo com nome das cidades
 
 
 <b> Tela da Cidade Selecionada </b>
 
-- [ ] Ícones direcionáveis para as seções de eleitores por prefeito, vereador e região
-
-<b> Tela das Regiões</b>
-
-- [ ] Menu arrastar no canto superior esquerdo
-- [ ]  Exibição das informações gerais
-- [ ]  Hover para destacar uma região específica
-
-
-<b> Tela da Região Selecionada</b>
+- [x] Ícones direcionáveis para as seções de eleitores por prefeito, vereador e região
+- [x] Menu arrastar no canto superior esquerdo com as regiões da cidade
+- [x] Hover para destacar uma região selecionada
 - [ ] Exibição das informações específicas referentes a região selecionada
 
 <b> Análise de Dados</b>
 
 - [x] Definir os filtros
-- [ ] Buscar as bases de dados necessárias
-- [ ] Fazer o tratamento dos dados
+- [x] Buscar as bases de dados necessárias
+- [x] Fazer o tratamento dos dados
+- [x] Gerar análise estatística dos dados de acordo com perfil do eleitorado
 - [ ] Gerar análise estatística dos dados de acordo com as eleições municipais 2020
-- [ ] Gerar análise estatística dos dados de acordo com perfil do eleitorado
 - [ ] Gerar os gráficos para visualização
 - [ ] Visualização na plataforma web
 - [ ] Exportação das informações
@@ -137,8 +130,6 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 * Rafael Hideki Hirayama (Development Team) [Linked In](https://www.linkedin.com/in/rafael-hideki-hirayama-39a67b190/) | [GitHub]()
 
-* Rayana Caroline Da Silva (Development Team)] [Linked In](https://www.linkedin.com/in/rayana-silva-3a9292195/) | [GitHub](https://github.com/raysilva02)
-
 * Vinicius Buarque De Gusmão Catonho (Development Team) [Linked In](https://www.linkedin.com/in/vinicius-buarque-de-gusm%C3%A3o-catonho-9b11911a7/) | [GitHub](https://github.com/Viniciusbuarque)
 
 
@@ -160,7 +151,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 - [x] Entrega 1 - 08/03/2021 à 28/03/2021 - Para visualizar a entrega, [clique aqui](#ancoraSprint1).
 
-- [ ] Entrega 2 - 29/03/2021 à 18/04/2021 - 
+- [x] Entrega 2 - 29/03/2021 à 18/04/2021 - Para visualizar a entrega, [clique aqui](#ancoraSprint2).
 
 - [ ] Entrega 3 - 26/04/2021 à 16/05/2021 - 
 - [ ] Entrega 4 - 17/05/2021 à 05/06/2021 - 
@@ -277,8 +268,146 @@ Segundo os requisitos levantados pelo cliente, foi definido os seguintes filtros
 
 :point_right: Para assistir o video completo com a demonstração do wireframe, acesse [aqui](https://www.youtube.com/watch?v=VYAdvso08_M).
 
+<a id="ancoraSprint2"></a>
+## - Sprint 2 - 
+
+ [![Generic badge](https://img.shields.io/badge/SPRINT%202-CONCLU%C3%8DDA-green)](https://shields.io/)
+
+### - PERÍODO- :date:
+
+- [X] Entrega 2  - 29/03/2021 à 18/04/2021
 
 
+### - BURN DOWN DA SPRINT- :chart_with_upwards_trend:
+
+![burndown]()
+
+![burndown_tabela]()
+
+### - ENTREGAS - :white_check_mark:
+
+![backlog](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/Sprint02.png)
+
+
+### - BACKLOG DA SPRINT- :bookmark_tabs:
+
+#### Tela Inicial:heavy_check_mark: 
+
+- [x] Definir e fazer correções do primeiro protótipo
+- [x] Ícones direcionáveis das cinco cidades
+- [x] Hover para destacar e apresentar o nome da cidade no ícone
+- [x] Cabeçalho da página com data, logo do cliente e ícone do menu
+- [x] Menu arrastar no canto superior esquerdo com nome das cidades
+
+![telainicial]()
+
+:point_right: Para acessar todo o código dessa página desenvolvido até o momento, clique [aqui](). | _(Caso demore e/ou não carregue o documento, atualize a página)_
+
+
+#### Tela da cidade selecionada:heavy_check_mark: 
+
+- [x] Definir e fazer correções do primeiro protótipo
+- [x] Menu arrastar no canto superior esquerdo com as regiões da cidade
+- [x] Hover para destacar e apresentar a região selecionada
+
+
+![telacidade]()
+
+:point_right: Para acessar todo o código dessa página desenvolvido até o momento, clique [aqui](). | _(Caso demore e/ou não carregue o documento, atualize a página)_
+ 
+#### Dados do perfil do eleitorado atual :heavy_check_mark: 
+
+ - [x] Definir e buscar bases de dados necessárias
+ 
+As bases de dados utilizadas nessa sprint podem ser encontradas no seguinte site: [Repositório de Dados Eleitorais](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1)
+
+
+ - [x] Definir ferramentas a ser utilizada para realizar a funcionalidade
+
+* As ferramentas utilizadas nessa sprint foram: 
+
+> Jupyter Notebook
+
+> Python
+
+> Biblioteca pandas
+
+- [x] Definir as User Stories a serem utilizadas
+
+* Foram selecionadas as seguintes User Stories:
+
+> “Como um jornalista, eu quero saber a classificação do eleitorado a partir do estado civil, escolaridade e gênero para que eu obtenha conteúdo para minha matéria.”
+
+> “Como um jornalista, eu quero saber a porcentagem de eleitores que utilizam nome social para que eu obtenha conteúdo para minha matéria.”
+
+> “Como um jornalista, eu quero saber quais as cidades com eleitorado mais jovem e mais velho”
+
+> "Como jornalista eu quero visualizar a média de homens e mulheres que votaram em cada região para que eu possa utilizar esses dados em minha matéria."
+
+> "Como jornalista eu quero visualizar a média de pessoas PNE (portador de necessidades especiais) que participam das eleições de cada região para que eu possa utilizar esses dados em minha matéria."
+
+ - [x] Fazer o tratamento dos dados
+ 
+- [x] Definir parâmetros 
+
+* Os seguintes parâmetros foram definidos:
+
+> É considerado público jovem eleitores entre 16 anos á 29 anos
+
+> É considerado público mais velho eleitores entre 60 anos ou mais
+ 
+> Foi considerado os eleitores como um todo, sem a divisão entre voto obrigatório e voto facultativo
+
+ - [x] Aplicar filtros definidos na sprint 1
+ 
+* Filtros aplicados nessa sprint:
+
+>	Estado: São Paulo
+
+>	Municípios: São José dos Campos, Taubaté, Jacareí, Pinda e Caraguatatuba
+
+>	Nome Social
+
+>	Faixa Etária
+
+>	Estado Civil
+
+>	Escolaridade
+
+>	Gênero
+
+>	Portadores de Necessidades Especiais
+
+>	Zona Eleitoral
+
+- [x] Gerar análise estatística dos dados de acordo com o perfil do eleitorado
+
+* As seguintes análises foram feitas de acordo com as informações recolhidas:
+
+> A faixa etaria que contém o número de eleitores
+
+> O grau de escolaridade entre o maior número de eleitores
+
+> O gênero que tem predominancia entre os eleitores
+
+> O estado civil que contém o número de eleitores
+
+> Número de eleitores com nome social
+
+> Número de eleitores Portadores de Necessidades Especiais
+
+> Comparação de idade entre as cidades
+
+- [x] Realizar validação com o cliente
+
+:point_right: Para acessar todo o código desenvolvido até o momento, clique [aqui](). | _(Caso demore e/ou não carregue o documento, atualize a página)_
+
+
+### - DEMONSTRAÇÃO DAS TELAS DESENVOLVIDAS:movie_camera:
+
+![gif]()
+
+:point_right: Para assistir o video completo com a demonstração das telas, acesse [aqui]().
 
 
 
