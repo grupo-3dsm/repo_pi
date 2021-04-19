@@ -401,11 +401,9 @@ As bases de dados utilizadas nessa sprint podem ser encontradas no seguinte site
 
 :warning: **ATENÇÂO**: Esse requisito será puxado para a próxima sprint para serem desenvolvidas as análises por regiões de cada cidade  
 
-- [x] Realizar validação com o cliente
-
 :point_right: Para acessar todo o código desenvolvido até o momento, clique [aqui](https://github.com/grupo-3dsm/repo_pi/blob/master/codigo/Jupyter-Notebook/Perfil%20do%20Eleitorado%20Atual.ipynb). | _(Caso demore e/ou não carregue o documento, atualize a página)_
 
-
+- [x] Realizar validação com o cliente
 
 
 ### - DEMONSTRAÇÃO DAS TELAS DESENVOLVIDAS:movie_camera:
