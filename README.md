@@ -91,7 +91,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 - [x] Definir os filtros
 - [x] Buscar as bases de dados necessárias
 - [x] Fazer o tratamento dos dados
-- [x] Gerar análise estatística dos dados de acordo com perfil do eleitorado
+- [ ] Gerar análise estatística dos dados de acordo com perfil do eleitorado
 - [ ] Gerar análise estatística dos dados de acordo com as eleições municipais 2020
 - [ ] Gerar os gráficos para visualização
 - [ ] Visualização na plataforma web
@@ -286,7 +286,7 @@ Segundo os requisitos levantados pelo cliente, foi definido os seguintes filtros
 
 ### - ENTREGAS - :white_check_mark:
 
-![backlog](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/Sprint02.png)
+![backlog](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/sprint-2.png)
 
 
 ### - BACKLOG DA SPRINT- :bookmark_tabs:
@@ -399,9 +399,13 @@ As bases de dados utilizadas nessa sprint podem ser encontradas no seguinte site
 
 > Comparação de idade entre as cidades
 
+:warning: **ATENÇÂO**: Esse requisito será puxado para a próxima sprint para serem desenvolvidas as análises por regiões de cada cidade  
+
 - [x] Realizar validação com o cliente
 
-:point_right: Para acessar todo o código desenvolvido até o momento, clique [aqui](https://github.com/grupo-3dsm/repo_pi/tree/master/codigo/Jupyter-Notebook). | _(Caso demore e/ou não carregue o documento, atualize a página)_
+:point_right: Para acessar todo o código desenvolvido até o momento, clique [aqui](https://github.com/grupo-3dsm/repo_pi/blob/master/codigo/Jupyter-Notebook/Perfil%20do%20Eleitorado%20Atual.ipynb). | _(Caso demore e/ou não carregue o documento, atualize a página)_
+
+
 
 
 ### - DEMONSTRAÇÃO DAS TELAS DESENVOLVIDAS:movie_camera:
