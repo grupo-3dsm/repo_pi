@@ -84,17 +84,17 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 - [x] Ícones direcionáveis para as seções de eleitores por prefeito, vereador e região
 - [x] Menu arrastar no canto superior esquerdo com as regiões da cidade
 - [x] Hover para destacar uma região selecionada
-- [ ] Exibição das informações específicas referentes a região selecionada
+- [x] Exibição das informações específicas referentes a região selecionada
 
 <b> Análise de Dados</b>
 
 - [x] Definir os filtros
 - [x] Buscar as bases de dados necessárias
 - [x] Fazer o tratamento dos dados
-- [ ] Gerar análise estatística dos dados de acordo com perfil do eleitorado
+- [x] Gerar análise estatística dos dados de acordo com perfil do eleitorado
 - [ ] Gerar análise estatística dos dados de acordo com as eleições municipais 2020
-- [ ] Gerar os gráficos para visualização
-- [ ] Visualização na plataforma web
+- [x] Gerar os gráficos para visualização
+- [x] Visualização na plataforma web
 - [ ] Exportação das informações
 
 
@@ -153,7 +153,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 - [x] Entrega 2 - 29/03/2021 à 18/04/2021 - Para visualizar a entrega, [clique aqui](#ancoraSprint2).
 
-- [ ] Entrega 3 - 26/04/2021 à 16/05/2021 - 
+- [ ] Entrega 3 - 26/04/2021 à 16/05/2021 - Para visualizar a entrega, [clique aqui](#ancoraSprint3).
 - [ ] Entrega 4 - 17/05/2021 à 05/06/2021 - 
 
 <br />
@@ -379,6 +379,8 @@ As bases de dados utilizadas nessa sprint podem ser encontradas no seguinte site
 
 >	Portadores de Necessidades Especiais
 
+![print_tela_sjc_grafico_sul_pt1](https://user-images.githubusercontent.com/78803504/118418140-8d2b4800-b68d-11eb-8300-f29e0142d680.png)
+
 >	Zona Eleitoral
 
 - [x] Gerar análise estatística dos dados de acordo com o perfil do eleitorado
@@ -420,9 +422,75 @@ As bases de dados utilizadas nessa sprint podem ser encontradas no seguinte site
 
 
 
+<a id="ancoraSprint3"></a>
+## - Sprint 3 - 
+
+![Generic badge](https://img.shields.io/badge/SPRINT3-CONCLU%C3%8DDA-brightgreen)
 
 
+### - PERÍODO- :date:
 
+- [X] Entrega 3  - 26/04/2021 à 16/05/2021
+
+### - BURN DOWN DA SPRINT- :chart_with_upwards_trend:
+
+![tarefas](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/Burndown-s3.png)
+
+![gráfico3](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/Burndown%20G-s3.png)
+
+### - ENTREGAS - :white_check_mark:
+
+![entrega](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/entrega-s3.png)
+
+### - BACKLOG DA SPRINT- :bookmark_tabs:
+
+#### - Gerar os gráficos para visualização:heavy_check_mark:
+
+- [X] - Implementação dos gráficos
+
+*gerados a partir das análises realizadas na sprint anterior
+
+> A faixa etaria que contém o número de eleitores
+
+> O grau de escolaridade entre o maior número de eleitores
+
+> O gênero que tem predominancia entre os eleitores
+
+> O estado civil que contém o número de eleitores
+
+> Número de eleitores com nome social
+
+> Número de eleitores Portadores de Necessidades Especiais
+
+> Comparação de idade entre as cidades
+
+* demonstração dos gráficos gerados
+
+![pt1](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/print_tela_sjc_grafico_sul_pt1.png)
+![pt2](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/print_tela_sjc_grafico_sul_pt2.png)
+![pt3](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/print_tela_sjc_grafico_sul_pt3.png)
+![pt4](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/print_tela_sjc_grafico_sul_pt4.png)
+
+- [X] - Otimização no código para adequar o layout em diferentes monitores e dispositivos. 
+- [X] - Otimização geral no código para melhor desempenho em navegadores (Mozilla Firefox)
+
+Todo código que foi otimizado pode ser encontrado [aqui](https://github.com/grupo-3dsm/repo_pi/tree/master/codigo/Front-end)
+
+#### - Visualização na plataforma web:heavy_check_mark:
+
+- [X] - Integração do jupyter notebook com a aplicação web
+
+* Integrou-se os gráficos dinâmicos gerados em Jupyter para o html, implemntando o código dos gráficos ao código do arquivo html, permitindo que o usuário interaja com os gráficos. 
+
+#### - Gerar análise estatística dos dados de acordo com perfil do eleitorado::heavy_check_mark:
+
+- [X] - Conforme citado acima, os dados que foram gerados, estão contidos nos gráficos gerados pelo Jupyter notebook.
+
+As bases de dados utilizadas nessa sprint podem ser encontradas no seguinte site: [Repositório de Dados Eleitorais](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1)
+
+### - DEMONSTRAÇÃO DAS TELAS DESENVOLVIDAS:movie_camera:
+
+![gif](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/gif_tela_sjc_graficos_sul.gif)
 
 
 
