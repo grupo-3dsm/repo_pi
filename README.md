@@ -432,7 +432,7 @@ As bases de dados utilizadas nessa sprint podem ser encontradas no seguinte site
 
 - [X] Entrega 3  - 26/04/2021 à 16/05/2021
 
-### - BURN DOWN DA SPRINT- :chart_with_upwards_trend:
+### - BURNDOWN DA SPRINT- :chart_with_upwards_trend:
 
 ![tarefas](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/Burndown-s3.png)
 
