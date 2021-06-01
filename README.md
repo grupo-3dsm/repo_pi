@@ -92,10 +92,10 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 - [x] Buscar as bases de dados necessárias
 - [x] Fazer o tratamento dos dados
 - [x] Gerar análise estatística dos dados de acordo com perfil do eleitorado
-- [ ] Gerar análise estatística dos dados de acordo com as eleições municipais 2020
+- [x] Gerar análise estatística dos dados de acordo com as eleições municipais 2020
 - [x] Gerar os gráficos para visualização
 - [x] Visualização na plataforma web
-- [ ] Exportação das informações
+- [x] Exportação das informações
 
 
 <b> Documentação </b>
@@ -140,7 +140,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 * Front-end: HTML5, CSS3, Javascript
 
-* Análise de Dados: Python, Pandas, Jupyter Notebook
+* Análise de Dados: Python, Pandas, Plotly, Jupyter Notebook
 
 * Design: FIGMA
 
@@ -153,8 +153,8 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 - [x] Entrega 2 - 29/03/2021 à 18/04/2021 - Para visualizar a entrega, [clique aqui](#ancoraSprint2).
 
-- [ ] Entrega 3 - 26/04/2021 à 16/05/2021 - Para visualizar a entrega, [clique aqui](#ancoraSprint3).
-- [ ] Entrega 4 - 17/05/2021 à 05/06/2021 - 
+- [x] Entrega 3 - 26/04/2021 à 16/05/2021 - Para visualizar a entrega, [clique aqui](#ancoraSprint3).
+- [x] Entrega 4 - 17/05/2021 à 06/06/2021 - Para visualizar a entrega, [clique aqui](#ancoraSprint4).
 
 <br />
 
@@ -491,6 +491,29 @@ As bases de dados utilizadas nessa sprint podem ser encontradas no seguinte site
 ### - DEMONSTRAÇÃO DAS TELAS DESENVOLVIDAS:movie_camera:
 
 ![gif](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/gif_tela_sjc_graficos_sul.gif)
+
+<a id="ancoraSprint4"></a>
+## - Sprint 4 - 
+
+![Generic badge](https://img.shields.io/badge/SPRINT3-CONCLU%C3%8DDA-brightgreen)
+
+
+### - PERÍODO- :date:
+
+- [X] Entrega 4  - 17/05/2021 à 06/06/2021
+
+### - BURNDOWN DA SPRINT- :chart_with_upwards_trend:
+
+![tarefas]()
+
+![gráfico3]()
+
+### - ENTREGAS - :white_check_mark:
+
+![entrega](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/entrega-s4.png)
+
+### - BACKLOG DA SPRINT- :bookmark_tabs:
+
 
 
 
