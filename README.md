@@ -169,7 +169,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 ## - Cronograma - :clock1230:
 
-<img  src="https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/cronograma%20-%20s2.png">
+<img  src="https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/cronograma-atualizado.png">
 
 
 <a id="ancoraSprint1"></a>
@@ -510,10 +510,43 @@ As bases de dados utilizadas nessa sprint podem ser encontradas no seguinte site
 
 ### - ENTREGAS - :white_check_mark:
 
-![entrega](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/entrega-s4.png)
+![entrega](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/sprint-4.png)
 
 ### - BACKLOG DA SPRINT- :bookmark_tabs:
 
+#### - Exportação das informações:heavy_check_mark:
+
+
+- [X] - Exportação do gráfico em formato PNG através da biblioteca Plotly, utilizada para eração dos gráficos.
+
+
+- [X] - Exportação do gráfico dinâmico em formato de arquivo HTML.
+
+
+#### - Documentação completa:heavy_check_mark:
+
+- [x] Local fonte das bases de dados
+- [x] Explicação sobre as bases de dados
+- [x] Legenda referente as colunas das bases de dados
+- [x] Explicação sobre as análises geradas
+- [x] Explicação de como gerar os gráficos
+- [x] Explicação sobre as ferramentas de dados utilizadas
+- [x] Explicação sobre o desenvolvimento web
+- [x] Explicação sobre as ferramentas utilizadas para o front-end
+- [x] Guia para realizar modificações
+
+
+#### - Atualização dos dados e dos gráficos:heavy_check_mark:
+
+Mudança: Foi decidido não dividir as cidades por regiões, trazer apenas os dados da cidades como um todo. 
+Isso ocorreu por conta da dificuldade de se encontrar as divisões regionais das cidades pequenas do vale.
+
+- [x] Incrementação com as cidades
+
+
+### - DEMONSTRAÇÃO DAS TELAS DESENVOLVIDAS:movie_camera:
+
+![gif]()
 
 
 
