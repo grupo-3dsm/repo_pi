@@ -538,10 +538,17 @@ As bases de dados utilizadas nessa sprint podem ser encontradas no seguinte site
 
 #### - Atualização dos dados e dos gráficos:heavy_check_mark:
 
-Mudança: Foi decidido não dividir as cidades por regiões, trazer apenas os dados da cidades como um todo. 
-Isso ocorreu por conta da dificuldade de se encontrar as divisões regionais das cidades pequenas do vale.
+> Mudança: Foi decidido não dividir as cidades por regiões, trazer apenas os dados da cidades como um todo. 
+> Isso ocorreu por conta da dificuldade de se encontrar as divisões regionais das cidades pequenas do vale.
 
-- [x] Incrementação com as cidades
+- [x] Incrementação com os seguintes Municípios:
+
+*
+*
+*
+*
+*
+
 
 
 ### - DEMONSTRAÇÃO DAS TELAS DESENVOLVIDAS:movie_camera:
