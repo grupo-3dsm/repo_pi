@@ -126,7 +126,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 * Gustavo Borges Lima (Development Team) [Linked In]() | [GitHub](https://github.com/Miojoguu)
 
-* Isabelle Dias Ribeiro Silva (Development Team) [Linked In](https://www.linkedin.com/in/isabelle-r-53a8b9115/) | [GitHub](https://github.com/drisabelles)
+* Isabelle Dias Ribeiro Silva (Development Team) [Linked In](https://www.linkedin.com/in/drisabelles/) | [GitHub](https://github.com/drisabelles)
 
 * Rafael Hideki Hirayama (Development Team) [Linked In](https://www.linkedin.com/in/rafael-hideki-hirayama-39a67b190/) | [GitHub]()
 
