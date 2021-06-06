@@ -1,4 +1,4 @@
-[![Generic badge](https://img.shields.io/badge/STATUS%20DO%20PROJETO-EM%20DESENVOLVIMENTO-yellow)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/STATUS%20DO%20PROJETO-CONCLU%C3%8DDO-green)](https://shields.io/)
 
 <h2 text align="center">Fatec Prof Jessen Vidal - São José dos Campos - 1º Semestre DSM</h2>
 
@@ -551,6 +551,7 @@ As bases de dados utilizadas nessa sprint podem ser encontradas no seguinte site
 
 
 :point_right: Para acessar os arquivos com os gráficos desenvolvidos, clique [aqui](https://github.com/grupo-3dsm/repo_pi/tree/master/codigo/Jupyter-Notebook/graficos).
+
 :point_right: Para acessar o arquivo Jupyter com os códigos das análises feitas em Python, clique [aqui](https://github.com/grupo-3dsm/repo_pi/blob/master/codigo/Jupyter-Notebook/Analise_Eleitorado_API.ipynb).
 
 
