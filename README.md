@@ -495,7 +495,7 @@ As bases de dados utilizadas nessa sprint podem ser encontradas no seguinte site
 <a id="ancoraSprint4"></a>
 ## - Sprint 4 - 
 
-![Generic badge](https://img.shields.io/badge/SPRINT3-CONCLU%C3%8DDA-brightgreen)
+![Generic badge](https://img.shields.io/badge/SPRINT4-CONCLU%C3%8DDA-brightgreen)
 
 
 ### - PERÍODO- :date:
