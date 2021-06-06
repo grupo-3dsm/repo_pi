@@ -500,7 +500,7 @@ As bases de dados utilizadas nessa sprint podem ser encontradas no seguinte site
 
 ![tarefas]()
 
-![gráfico3]()
+![gráfico3](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/Brundown-s4%20G.png)
 
 ### - ENTREGAS - :white_check_mark:
 
