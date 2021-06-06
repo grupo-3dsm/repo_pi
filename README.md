@@ -100,15 +100,9 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 <b> Documentação </b>
 
-- [x] Introdução
-- [x] Descrição do site
-- [x] Objetivo
-- [x] Exemplos dos dados utilizados
 - [x] Local fonte das bases de dados
 - [x] Explicação sobre as bases de dados
-- [x] Legenda referente as colunas das bases de dados
 - [x] Explicação sobre as análises geradas
-- [x] Explicação de como gerar os gráficos
 - [x] Explicação sobre as ferramentas de dados utilizadas
 - [x] Explicação sobre o desenvolvimento web
 - [x] Explicação sobre as ferramentas utilizadas para o front-end
@@ -530,14 +524,14 @@ As bases de dados utilizadas nessa sprint podem ser encontradas no seguinte site
 
 - [x] Local fonte das bases de dados
 - [x] Explicação sobre as bases de dados
-- [x] Legenda referente as colunas das bases de dados
 - [x] Explicação sobre as análises geradas
-- [x] Explicação de como gerar os gráficos
 - [x] Explicação sobre as ferramentas de dados utilizadas
 - [x] Explicação sobre o desenvolvimento web
 - [x] Explicação sobre as ferramentas utilizadas para o front-end
 - [x] Guia para realizar modificações
 
+:point_right: Para acessar o pdf com a documentação completa, clique [aqui](https://github.com/grupo-3dsm/repo_pi/blob/master/documenta%C3%A7%C3%A3o/Documentacao%20final.pdf). | _(Caso demore e/ou não carregue o documento, atualize a página)_
+				
 
 #### - Atualização dos dados e dos gráficos:heavy_check_mark:
 
