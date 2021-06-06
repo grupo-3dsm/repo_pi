@@ -523,6 +523,9 @@ As bases de dados utilizadas nessa sprint podem ser encontradas no seguinte site
 - [X] - Exportação do gráfico dinâmico em formato de arquivo HTML.
 
 
+:point_right: Para acessar os arquivos com os códigos de Front-End desenvolvidos, clique [aqui](https://github.com/grupo-3dsm/repo_pi/tree/master/codigo/Front-end).
+
+
 #### - Documentação completa:heavy_check_mark:
 
 - [x] Local fonte das bases de dados
