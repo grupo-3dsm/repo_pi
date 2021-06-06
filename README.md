@@ -104,15 +104,15 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 - [x] Descrição do site
 - [x] Objetivo
 - [x] Exemplos dos dados utilizados
-- [ ] Local fonte das bases de dados
-- [ ] Explicação sobre as bases de dados
-- [ ] Legenda referente as colunas das bases de dados
-- [ ] Explicação sobre as análises geradas
-- [ ] Explicação de como gerar os gráficos
-- [ ] Explicação sobre as ferramentas de dados utilizadas
-- [ ] Explicação sobre o desenvolvimento web
-- [ ] Explicação sobre as ferramentas utilizadas para o front-end
-- [ ] Guia para realizar modificações
+- [x] Local fonte das bases de dados
+- [x] Explicação sobre as bases de dados
+- [x] Legenda referente as colunas das bases de dados
+- [x] Explicação sobre as análises geradas
+- [x] Explicação de como gerar os gráficos
+- [x] Explicação sobre as ferramentas de dados utilizadas
+- [x] Explicação sobre o desenvolvimento web
+- [x] Explicação sobre as ferramentas utilizadas para o front-end
+- [x] Guia para realizar modificações
 				
 		
 <br />
@@ -543,11 +543,16 @@ As bases de dados utilizadas nessa sprint podem ser encontradas no seguinte site
 
 - [x] Incrementação com os seguintes Municípios:
 
-*
-*
-*
-*
-*
+* Caçapava
+* Ilhabela
+* São Sebastião
+* Ubatuba
+* Campos do Jordão
+
+
+:point_right: Para acessar os arquivos com os gráficos desenvolvidos, clique [aqui](https://github.com/grupo-3dsm/repo_pi/tree/master/codigo/Jupyter-Notebook/graficos).
+:point_right: Para acessar o arquivo Jupyter com os códigos das análises feitas em Python, clique [aqui](https://github.com/grupo-3dsm/repo_pi/blob/master/codigo/Jupyter-Notebook/Analise_Eleitorado_API.ipynb).
+
 
 
 
