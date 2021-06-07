@@ -515,7 +515,7 @@ As bases de dados utilizadas nessa sprint podem ser encontradas no seguinte site
 
 > Em todos os gráficos contém um ícone com algumas ferramentas. O icone demarcado na imagem abaixo possibilita o download do gráfico em forma PNG.
 
-![download](C:\Users\gabri\OneDrive\Área de Trabalho\ferramentas-graficos.png)
+![download](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/ferramentas-graficos.png)
 
 
 :point_right: Para acessar os arquivos com os códigos de Front-End desenvolvidos, clique [aqui](https://github.com/grupo-3dsm/repo_pi/tree/master/codigo/Front-end).
