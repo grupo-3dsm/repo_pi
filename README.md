@@ -511,7 +511,7 @@ As bases de dados utilizadas nessa sprint podem ser encontradas no seguinte site
 #### - Exportação das informações:heavy_check_mark:
 
 
-- [X] - Exportação do gráfico em formato PNG através da biblioteca Plotly, utilizada para eração dos gráficos.
+- [X] - Exportação do gráfico em formato PNG através da biblioteca Plotly, utilizada para extração dos gráficos.
 
 > Em todos os gráficos contém um ícone com algumas ferramentas. O icone demarcado na imagem abaixo possibilita o download do gráfico em forma PNG.
 
