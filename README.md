@@ -498,7 +498,7 @@ As bases de dados utilizadas nessa sprint podem ser encontradas no seguinte site
 
 ### - BURNDOWN DA SPRINT- :chart_with_upwards_trend:
 
-![tarefas]()
+![tarefas](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/Burndown-s4.png)
 
 ![gráfico3](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/Brundown-s4%20G.png)
 
