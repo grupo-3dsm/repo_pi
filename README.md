@@ -504,7 +504,7 @@ As bases de dados utilizadas nessa sprint podem ser encontradas no seguinte site
 
 ### - ENTREGAS - :white_check_mark:
 
-![entrega](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/sprint-4.png)
+![entrega](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/entrega-s4.png)
 
 ### - BACKLOG DA SPRINT- :bookmark_tabs:
 
