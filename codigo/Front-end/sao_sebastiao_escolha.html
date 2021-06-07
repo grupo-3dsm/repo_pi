@@ -1,0 +1,81 @@
+<html lang="pt-BR">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="stylevanguarda.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Hind" />
+    <title>Vanguarda</title>
+</head>
+
+<body>
+
+    <div id="header">
+        <img id="menu" src="imagens/menu.png" onclick="openNav()" />
+        <a href="index.html">
+            <img id="logo" src="imagens/vanguarda.png" /></a>
+        <p id="data"></p>
+    </div>
+    <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="sjc_escolha.html">
+            <p>São José dos Campos</p>
+        </a>
+        <a href="jcr_escolha.html">
+            <p>Jacarei</p>
+        </a>
+        <a href="tbt_escolha.html">
+            <p>Taubaté</p>
+        </a>
+        <a href="pinda_escolha.html">
+            <p>Pindamonhangaba</p>
+        </a>
+        <a href="caragua_escolha.html">
+            <p>Caraguatatuba</p>
+        </a>
+        <a href="cacapava_escolha.html">
+          <p>Caçapava</p>
+        </a>
+        <a href="campos_do_jordao_escolha.html">
+          <p>Campos do Jordão</p>
+        </a>
+        <a href="ubatuba_escolha.html">
+          <p>Ubatuba</p>
+        </a>
+        <a href="sao_sebastiao_escolha.html">
+          <p>São Sebastião</p>
+        </a>
+        <a href="ilha_bela_escolha.html">
+          <p>Ilhabela</p>
+        </a>
+    </div>
+    <div class="mostrar_graficos">
+        
+        <div id="grafico_geral_sebastiao" class="estado-inicial-grafico">
+            <iframe src="sebastiao/geral/grafico_comparecimento_SAOSEBA.html"></iframe>
+            <iframe src="sebastiao/geral/grafico_escolaridadeSAOSEBA_Geral.html"></iframe>
+            <iframe src="sebastiao/geral/grafico_estadoCivilSAOSEBA_Geral.html"></iframe>
+            <iframe src="sebastiao/geral/grafico_generoSAOSEBA_Geral.html"></iframe>
+            <iframe src="sebastiao/geral/grafico_idadeSAOSEBA_Geral.html"></iframe>
+            <iframe src="sebastiao/geral/grafico_nomeSocialePNESAOSEBA_Geral.html"></iframe>
+            <iframe src="sebastiao/geral/grafico_piramide_SAOSEBAgeral.html"></iframe>
+        </div>
+
+    </div>
+    <div id="tabela_regiao" class="regioes_nome">
+        <h2> Regiões </h2>
+        <h3 class="identificadorCidade">São Sebastião</h3>
+        <p>Geral</p>
+    </div>
+    <div id="respMenor">
+        <p id="localidadeMenor"></p>
+    </div>
+    <div id="respMaior">
+        <p id="localidadeMaior"></p>
+    </div>
+    </div>
+    <script src="script.js" type="text/javascript"></script>
+</body>
+
+</html>
