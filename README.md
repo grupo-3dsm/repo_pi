@@ -556,7 +556,7 @@ As bases de dados utilizadas nessa sprint podem ser encontradas no seguinte site
 
 ### - DEMONSTRAÇÃO DAS TELAS DESENVOLVIDAS:movie_camera:
 
-![gif]()
+![gif](https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/gif-final.gif)
 
 
 
